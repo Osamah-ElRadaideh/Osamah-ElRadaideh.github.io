@@ -13,7 +13,7 @@ Speech enhancment model demo. Capable of removing and limiting different types o
         <tr>
           <td nowrap width="160"></td>
           <td><audio controls="" preload="none"><source src="examples/clean_0.wav"></audio></td>
-          <td><audio controls="" preload="none"><source src="examples/noisy_0""></audio></td>
+          <td><audio controls="" preload="none"><source src="examples/noisy_0.wav""></audio></td>
                      </tr>
 </tbody>
       </table>
