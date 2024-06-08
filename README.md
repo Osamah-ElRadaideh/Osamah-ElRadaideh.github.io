@@ -14,9 +14,11 @@ Speech enhancment model demo. Capable of removing and limiting different types o
           <td nowrap width="160"></td>
           <td><audio controls="" preload="none"><source src="examples/noisy_0.wav"></audio></td>
           <td><audio controls="" preload="none"><source src="examples/clean_0.wav""></audio></td>
-                      </tr>
+                     </tr>
+</tbody>
+      </table>
+</div>
         <tr>
-
 
 <div>
       <a name="ss"><h2>Example 2</h2></a>
@@ -27,7 +29,10 @@ Speech enhancment model demo. Capable of removing and limiting different types o
           <td nowrap width="160"></td>
           <td><audio controls="" preload="none"><source src="examples/noisy_1.wav"></audio></td>
           <td><audio controls="" preload="none"><source src="examples/clean_1.wav""></audio></td>
-                      </tr>
+                 </tr>
+</tbody>
+      </table>
+</div>
         <tr>
 
   <div>
@@ -40,6 +45,9 @@ Speech enhancment model demo. Capable of removing and limiting different types o
           <td><audio controls="" preload="none"><source src="examples/noisy_2.wav"></audio></td>
           <td><audio controls="" preload="none"><source src="examples/clean_2.wav""></audio></td>
                       </tr>
+</tbody>
+      </table>
+</div>
         <tr>
     <div>
       <a name="ss"><h2>Example 4</h2></a>
@@ -51,6 +59,9 @@ Speech enhancment model demo. Capable of removing and limiting different types o
           <td><audio controls="" preload="none"><source src="examples/noisy_3.wav"></audio></td>
           <td><audio controls="" preload="none"><source src="examples/clean_3.wav""></audio></td>
                       </tr>
+</tbody>
+      </table>
+</div>
         <tr>
 
   <div>
@@ -62,5 +73,8 @@ Speech enhancment model demo. Capable of removing and limiting different types o
           <td nowrap width="160"></td>
           <td><audio controls="" preload="none"><source src="examples/noisy_4.wav"></audio></td>
           <td><audio controls="" preload="none"><source src="examples/clean_4.wav""></audio></td>
-                      </tr>
+                     </tr>
+</tbody>
+      </table>
+</div>
         <tr>
