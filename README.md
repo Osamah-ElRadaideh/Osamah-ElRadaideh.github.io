@@ -6,7 +6,7 @@ Speech enhancment model demo. Capable of removing and limiting different types o
 
 
 <div>
-      <a name="ss"><h2>Examples</h2></a>
+      <a name="ss"><h2>Example 1</h2></a>
       <hr>
       <table>
         <tbody>
