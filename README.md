@@ -45,7 +45,6 @@ Speech enhancment model demo. Capable of removing and limiting different types o
 </tbody>
       </table>
 </div>
-
 <div>
 <a name="ss"><h2>Example 4</h2></a>
 <hr>
@@ -73,4 +72,3 @@ Speech enhancment model demo. Capable of removing and limiting different types o
 </tbody>
       </table>
 </div>
-        <tr>
