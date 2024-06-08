@@ -45,16 +45,17 @@ Speech enhancment model demo. Capable of removing and limiting different types o
 </tbody>
       </table>
 </div>
-    <div>
-      <a name="ss"><h2>Example 4</h2></a>
-      <hr>
-      <table>
-        <tbody>
-        <tr>
-          <td nowrap width="160"></td>
-          <td><audio controls="" preload="none"><source src="examples/noisy_3.wav"></audio></td>
-          <td><audio controls="" preload="none"><source src="examples/clean_3.wav""></audio></td>
-                      </tr>
+
+<div>
+<a name="ss"><h2>Example 4</h2></a>
+<hr>
+<table>
+  <tbody>
+  <tr>
+    <td nowrap width="160"></td>
+    <td><audio controls="" preload="none"><source src="examples/noisy_3.wav"></audio></td>
+    <td><audio controls="" preload="none"><source src="examples/clean_3.wav""></audio></td>
+                </tr>
 </tbody>
       </table>
 </div>
